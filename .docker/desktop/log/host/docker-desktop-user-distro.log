@@ -1,0 +1,31 @@
+-------------------------------------------------------------------------------->8
+[2025-09-17T04:29:46.640287005Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/myeon/.docker/contexts
+[2025-09-17T04:29:46.676247194Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/myeon/.docker/contexts os.Symlink <HOME>/.docker/contexts -> /mnt/c/Users/myeon/.docker/contexts
+-------------------------------------------------------------------------------->8
+[2025-09-17T04:29:47.265304376Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/myeon/.aws, linkPath = <HOME>/.aws
+-------------------------------------------------------------------------------->8
+[2025-09-17T04:29:47.853045810Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/myeon/.azure, linkPath = <HOME>/.azure
+-------------------------------------------------------------------------------->8
+[2025-09-17T04:29:48.413059105Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/myeon/.docker/features.json, linkPath = ~/.docker/features.json
+-------------------------------------------------------------------------------->8
+[2025-09-17T04:47:05.950474105Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/myeon/.docker/contexts
+[2025-09-17T04:47:05.954571059Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/myeon/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+[2025-09-17T04:47:06.245294971Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/myeon/.aws, linkPath = <HOME>/.aws
+[2025-09-17T04:47:06.250651438Z][docker-desktop-user-distro] no need to symlink <HOME>/.aws to /mnt/c/Users/myeon/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-09-17T04:47:06.564431637Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/myeon/.azure, linkPath = <HOME>/.azure
+[2025-09-17T04:47:06.569773382Z][docker-desktop-user-distro] no need to symlink <HOME>/.azure to /mnt/c/Users/myeon/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-09-17T04:47:06.870149870Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/myeon/.docker/features.json, linkPath = ~/.docker/features.json
+-------------------------------------------------------------------------------->8
+[2025-09-17T05:05:16.567952388Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/myeon/.docker/contexts
+[2025-09-17T05:05:16.578095350Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/myeon/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+[2025-09-17T05:05:17.104844534Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/myeon/.aws, linkPath = <HOME>/.aws
+[2025-09-17T05:05:17.110527858Z][docker-desktop-user-distro] no need to symlink <HOME>/.aws to /mnt/c/Users/myeon/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-09-17T05:05:17.599834963Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/myeon/.azure, linkPath = <HOME>/.azure
+[2025-09-17T05:05:17.606219434Z][docker-desktop-user-distro] no need to symlink <HOME>/.azure to /mnt/c/Users/myeon/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-09-17T05:05:18.150071991Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/myeon/.docker/features.json, linkPath = ~/.docker/features.json
