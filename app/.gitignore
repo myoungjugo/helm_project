@@ -1,7 +1,0 @@
-
-	# Downloaded dependency charts
-	charts/*.tgz
-	
-	# Packaged charts
-	*.tgz
-	
